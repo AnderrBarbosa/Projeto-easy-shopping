@@ -7,3 +7,8 @@
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
+
+<h3>vizualização desktop</h3> 
+<img scr:"https://github.com/AnderrBarbosa/Projeto-easy-shopping/blob/main/desktop..png?raw=true"/>
+<h3>vizualização cell phone</h3>
+<img scr="[https://github.com/AnderrBarbosa/Projeto-easy-shopping/blob/main/iphone.png?raw=true](https://github.com/AnderrBarbosa/Projeto-easy-shopping/blob/main/iphone.png?raw=true)https://github.com/AnderrBarbosa/Projeto-easy-shopping/blob/main/iphone.png?raw=true"/>
